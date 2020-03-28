@@ -1,0 +1,10 @@
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/bin/Debug/netcoreapp3.1/dotnet-arraylist.deps.json
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/bin/Debug/netcoreapp3.1/dotnet-arraylist.runtimeconfig.json
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/bin/Debug/netcoreapp3.1/dotnet-arraylist.runtimeconfig.dev.json
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/bin/Debug/netcoreapp3.1/dotnet-arraylist.dll
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/bin/Debug/netcoreapp3.1/dotnet-arraylist.pdb
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/obj/Debug/netcoreapp3.1/dotnet-arraylist.csprojAssemblyReference.cache
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/obj/Debug/netcoreapp3.1/dotnet-arraylist.AssemblyInfoInputs.cache
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/obj/Debug/netcoreapp3.1/dotnet-arraylist.AssemblyInfo.cs
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/obj/Debug/netcoreapp3.1/dotnet-arraylist.dll
+/Users/hunggia/Development/CodeGym/dotnet-arraylist/dotnet-arraylist/obj/Debug/netcoreapp3.1/dotnet-arraylist.pdb
